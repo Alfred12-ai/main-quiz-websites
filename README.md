@@ -40,7 +40,7 @@ Installation
 
 1. Clone the repository:
 
-git clone https://github.com/Alfred 12-ai/brainiac-quizzes.git
+git clone https://github.com/Alfred12-ai/main-quiz-websites
 
 
 2. Navigate to the project folder:
