@@ -1,4 +1,4 @@
-Project title:
+PROJECT TITLE:
 
 Brainiac Quizzes Site
 
@@ -45,7 +45,7 @@ git clone https://github.com/Alfred12-ai/main-quiz-websites
 
 2. Navigate to the project folder:
 
-cd brainiac-quizzes
+cd main-quiz-websites
 
 
 3. Open b.html in a browser.
